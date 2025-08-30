@@ -208,7 +208,6 @@ body {
 
 .about {
   background: #f8f9fa;
-  max-width: 1200px;
   margin: 0 auto;
 }
 
@@ -276,7 +275,7 @@ body {
 }
 
 .services {
-  background: lightgrey;
+  /* background: lightgrey; */
 }
 
 .services h2 {
@@ -358,7 +357,7 @@ body {
 }
 
 .contact {
-  background: lightgrey;
+  /* background: lightgrey; */
 }
 
 .contact h2 {
