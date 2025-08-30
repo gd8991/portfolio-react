@@ -165,7 +165,7 @@ const Portfolio = () => {
     { name: 'Oracle', icon: '/assets/icons8-oracle-logo-48.png' },
     { name: 'Postman', icon: '/assets/icons8-postman-inc-48.png' },
     { name: 'React', icon: '/assets/icons8-react-48.png' },
-    { name: 'SaaS', icon: '/assets/icons8-saas-60.png' },
+    { name: 'SaaS', icon: '/assets/icons8-saas-60.png' }, 
   ];
 
   const projects = [
